@@ -8,7 +8,7 @@ import App from './components/app/App';
 
 
 ReactDOM.render(
-  <Router>
+  <Router basename="/test_task1">
     <App />
   </Router>,
   document.getElementById('root')
