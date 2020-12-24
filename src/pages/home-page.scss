@@ -1,0 +1,13 @@
+.home-page {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    height: 100vh;
+}
+
+.home-page__wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
